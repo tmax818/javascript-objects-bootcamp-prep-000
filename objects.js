@@ -1,4 +1,4 @@
-var playlist = {artist: "song"};
+var playlist = {};
 
 function updatePlaylist(obj, key, value) {
   obj[key] = value;
